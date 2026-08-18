@@ -1,0 +1,17 @@
+# ===== 数据产物（含账号关联信息，严禁提交）=====
+login.json
+folders_raw.json
+fav_all.jsonl
+tags.jsonl
+categories.json
+classified.json
+folders.json
+*.log
+
+# ===== 系统文件 =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== 打包产物 =====
+*.zip
